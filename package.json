@@ -1,0 +1,19 @@
+{
+  "name": "js-helpers",
+  "version": "1.0.0",
+  "description": "Some small js helpers for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-scradge/js-helpers.git"
+  },
+  "author": "john martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-scradge/js-helpers/issues"
+  },
+  "homepage": "https://github.com/El-scradge/js-helpers#readme"
+}
